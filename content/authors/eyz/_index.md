@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, Electrical Engineering
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,6 @@ organizations:
 bio: 
 
 interests:
-- Statistical modelling
-- Structured inference
-- Computational neuroscience
 
 # education:
 #   courses:
@@ -48,6 +45,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/elizabeth-zhang-85541060/
 - icon: github
   icon_pack: fab
   link: https://github.com/ezhang94
